@@ -13,6 +13,7 @@ public class Demo
 	  int e=12;
 	  int g=5;
 	  System.out.println(e+f);
+	  String hello;
 	  
   }
 }
