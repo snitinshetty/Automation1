@@ -10,6 +10,9 @@ public class Demo
 	  int c=12;
 	  int d= 15;
 	  System.out.println(c+d);
+	  int e=12;
+	  int g=5;
+	  System.out.println(e+f);
 	  
   }
 }
